@@ -6,11 +6,12 @@ Member - Test_main_2
 
 coach - DS
 coach - DK
-coach - DL
+coach - DL 
 
 Test From Git
 
 Merge issue Test
 Source tree Test_1
 
+contract Z{}
 contract D{}
